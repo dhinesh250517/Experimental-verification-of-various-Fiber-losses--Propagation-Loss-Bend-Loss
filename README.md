@@ -81,7 +81,7 @@ This \(a\) is for **950nm wavelength**.
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
 ## TABULATION
-<img width="809" height="1280" alt="image" src="https://github.com/user-attachments/assets/618c241f-0fd3-49e3-8edf-36fa1fc87d1d" />
+<img width="403" height="640" alt="image" src="https://github.com/user-attachments/assets/618c241f-0fd3-49e3-8edf-36fa1fc87d1d" />
 
 
 ## RESULT
